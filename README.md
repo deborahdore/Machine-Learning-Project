@@ -1,6 +1,6 @@
 # Smart Houses
 
-#### This repository was created by Deborah Dore and Vincenzo Imperati.
+#### This repository was created by Deborah Dore and [Vincenzo Imperati](https://github.com/VincenzoImp).
 
 Lately, improving electricity use in homes is becoming more and more critical. Enhancing electricity usage is possible through the Demand Response algorithm that allows users to manage their energy consumption correctly, reply better to peak demand or electricity market offers and utilise the energy resources more efficiently.
 This work proposes an hour-ahead Demand Response algorithm for Home Energy Man- agement System (HEMS) that uses machine learning techniques, considering electricity costs and client’s dissatisfaction.
